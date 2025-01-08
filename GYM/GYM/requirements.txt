@@ -2,3 +2,5 @@
 !pip install "gymnasium[box2d]"
 !pip install gymnasium stable-baselines3
 !pip install tensorboard
+!pip install ale-py
+!pip install stable-baselines3[extra]
