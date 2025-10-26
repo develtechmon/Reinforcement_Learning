@@ -4,3 +4,7 @@
 !pip install tensorboard
 !pip install ale-py
 !pip install stable-baselines3[extra]
+
+
+## Optionally if you want to install in One go, use the following
+!pip install swig "gymnasium[all]" stable-baselines3[extra] tensorboard ale-py
